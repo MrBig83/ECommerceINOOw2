@@ -20,7 +20,7 @@ Syftet är att öva på UML-diagram, OOP-principer och att översätta design ti
 - **Interface**: `IDisplayable` används av alla klasser för att visa information.  
 
 ## UML-diagram
-![ECommerce UML](ECommerce_UML_Full.png)
+![ECommerce UML](UML_Diagram.png)
 
 ## Körning
 Projektet är en **Console Application**.  
