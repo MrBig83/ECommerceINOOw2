@@ -1,7 +1,6 @@
 ﻿# E-handelssystem (UML + C#)
 
-Detta projekt är en förenklad modell av ett e-handelssystem byggt med **objektorienterad programmering i C#**.  
-Syftet är att öva på UML-diagram, OOP-principer och att översätta design till kod.  
+Jag snickrade ihop ett e-handelssystem som ett övningsprojekt för att lära mig mer om **objektorienterad programmering (OOP)** och **UML-diagram**.
 
 ## Funktioner
 - **Produkter** kan vara både fysiska och digitala (arv från en abstrakt `Product`-klass).  
@@ -20,5 +19,5 @@ Syftet är att öva på UML-diagram, OOP-principer och att översätta design ti
 - **Interface**: `IDisplayable` används av alla klasser för att visa information.  
 
 ## UML-diagram
-![ECommerce UML](UMLDiagram.png)
+![UML-Diagram](UML/UMLDiagram.png)
 
